@@ -18,18 +18,15 @@ bio = ""
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "anton@helpfulbus.com"
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Bioinformatics",
-    "Computational Biology",
-    "Blockchain data streams",
+# List (academic) interests or hobbies
+interests = [
+  "Artificial Intelligence",
+  "Machine Learning",
+  "Bioinformatics",
+  "Computational Biology"
+]
 
-  ]
-
-# List your qualifications (such as academic degrees).
+# List qualifications (such as academic degrees)
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "University of California, Riverside"
@@ -44,9 +41,6 @@ email = "anton@helpfulbus.com"
   course = "MS in Finance"
   institution = "Taras Shevchenko National University of Kyiv"
   year = 2009
-
-+++
-
 
 # Social/Academic Networking
 #
@@ -69,7 +63,7 @@ email = "anton@helpfulbus.com"
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:anton@helpfulbus.com".
 
 [[social]]
   icon = "twitter"
@@ -94,5 +88,3 @@ email = "anton@helpfulbus.com"
 #   link = "files/cv.pdf"
 
 +++
-
-#Bio goes here
