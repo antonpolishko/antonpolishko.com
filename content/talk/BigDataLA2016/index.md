@@ -19,6 +19,7 @@ abstract_short = "The real estate industry is generating terabytes of data, but 
 # Name of event and optional event URL.
 event = "4th Annual Big Data Day LA 2016 conference"
 event_url = "https://www.bigdatadayla.com/2016-big-data-day-la/"
+url_custom = [{name = "event", url = "https://www.bigdatadayla.com/2016-big-data-day-la/"}]
 
 # Location of event.
 location = "West Los Angeles College in Culver City"

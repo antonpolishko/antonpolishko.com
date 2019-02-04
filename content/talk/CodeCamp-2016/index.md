@@ -21,6 +21,7 @@ abstract_short = "In this talk we would learn fundamental backgrounds of EM and 
 event = "SoCal CodeCamp in San Diego"
 event_url = "https://www.socalcodecamp.com/pastevents/sessions.aspx?id=33"
 #https://fedoraproject.org/wiki/Talk:SoCalCodeCamp/2016
+url_custom = [{name = "event", url = "https://www.socalcodecamp.com/pastevents/sessions.aspx?id=33"}]
 
 # Location of event.
 location = "University of California, San Diego"

@@ -19,6 +19,7 @@ abstract_short = "This presentation covers popular approaches to modeling real e
 # Name of event and optional event URL.
 event = "IDEAS SoCal Data Science Conference 2017"
 event_url = "https://www.ideassn.org/socal-2017/"
+url_custom = [{name = "event", url = "https://www.ideassn.org/socal-2017/"}]
 
 # Location of event.
 location = "Pasadena Convention Center, Pasadena, CA"
