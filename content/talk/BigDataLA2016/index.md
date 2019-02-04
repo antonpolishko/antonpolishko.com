@@ -1,6 +1,6 @@
 +++
 title = "Big Data and Real Estate"
-date = 2116-07-09  # Schedule page publish date.
+date = 2016-07-09  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -49,7 +49,8 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = "https://www.slideshare.net/sawjd/big-data-day-la-2016-nosql-track-big-data-and-real-estate-jon-zifcak-ceo-anton-polishko-cto-zulloo"
-url_video = "https://youtu.be/ycI-0b92pkc"
+url_video = "https://youtu.be/ycI-0b92pkc" 
+# https://www.youtube.com/watch?v=HzNnnGtlenY
 url_code = ""
 
 # Featured image

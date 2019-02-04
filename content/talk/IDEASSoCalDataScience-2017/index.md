@@ -48,7 +48,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://sched.co/CagR"
 url_video = ""
 url_code = ""
 
