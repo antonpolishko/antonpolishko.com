@@ -77,6 +77,11 @@ interests = [
   #"https://scholar.google.com/citations?user=cRvd8PoAAAAJ"
 
 [[social]]
+  icon = "flask"
+  icon_pack = "fas"
+  link = "https://www.researchgate.net/profile/Anton_Polishko"
+
+[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/antonpolishko"
