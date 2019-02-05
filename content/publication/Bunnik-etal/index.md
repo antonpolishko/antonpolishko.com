@@ -67,7 +67,7 @@ url_source = ""
 url_custom = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/24885191"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1186/1471-2164-15-347"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

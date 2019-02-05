@@ -5,7 +5,7 @@ date = 2017-08-21
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Anton Polishko**","Karine Le Roch", "Nadia Ponts", "Stefano Lonardi"]
+authors = ["**Anton Polishko**","Md. Abid Hasan", "Weihua Pan", "Evelien M. Bunnik", "Karine Le Roch", "Stefano Lonardi"]
 
 # Publication type.
 # Legend:
@@ -63,11 +63,11 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "link", url = "http://drops.dagstuhl.de/opus/volltexte/2017/7637/"}]
+url_custom = [{name = "conference", url = "https://acm-bcb.org/WABI/2017/index.php?page=accepted_papers"}]
 
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.4230/LIPIcs.WABI.2017.19"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
