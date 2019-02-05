@@ -46,7 +46,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["nucleosomes", "nucleosome positioning"]
 
 # Links (optional).
 url_pdf = "http://www.cs.ucr.edu/~stelo/papers/ISMB12.pdf"

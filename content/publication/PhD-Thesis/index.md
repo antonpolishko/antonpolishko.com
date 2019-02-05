@@ -45,7 +45,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["nucleosomes", "nucleosome positioning"]
 
 # Links (optional).
 url_pdf = "https://search.proquest.com/openview/70e817707c9726c2e6431cb7da96813d/1?pq-origsite=gscholar&cbl=18750&diss=y"
