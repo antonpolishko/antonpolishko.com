@@ -1,27 +1,27 @@
 +++
-title = "Smart-contracts in the construction industry"
-date = 2019-02-04T17:20:00-08:00  # Schedule page publish date.
+title = "Exploring Nucleosome Dynamics"
+date = 2019-02-04T17:24:07-08:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-04-19T11:30:00-05:00
-time_end = 2018-04-19T11:45:00-05:00
+time_start = 2018-05-08T10:00:00-08:00
+time_end = 2018-05-08T12:00:00-08:00
 all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Anton Polishko"]
 
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "4TH ANNUAL BLOCKCHAIN CONFERENCE: NEW YORK 2018"
-event_url = "https://www.blockchain-newyork.com/"
+event = "Invited talk at the USC/Keck School of Medicine"
+event_url = "https://keck.usc.edu/"
 
 # Location of event.
-location = "3 Times Square, New York, NY 10036, USA"
+location = "Keck School of Medicine of USC"
 
 # Is this a featured talk? (true/false)
 featured = false
