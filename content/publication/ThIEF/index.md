@@ -19,11 +19,11 @@ authors = ["**Anton Polishko**","Md. Abid Hasan", "Weihua Pan", "Evelien M. Bunn
 ppublication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "17th International Workshop on Algorithms in Bioinformatics"
-publication_short = "WABI"
+publication = "17th International Workshop on Algorithms in Bioinformatics, *DROPS-IDN/7637*"
+
 
 # Abstract and optional shortened version.
-abstract = "We address the problem of comparing multiple genome-wide maps representing nucleosome positions or specific histone marks. These maps can originate from the comparative analysis of ChIP-Seq/MNase-Seq/FAIRE-Seq data for different cell types/tissues or multiple time points. The input to the problem is a set of maps, each of which is a list of genomics locations for nucleosomes or histone marks. The output is an alignment of nucleosomes/histone marks across time points (that we call trajectories), allowing small movements and gaps in some of the maps. We present a tool called ThIEF (TrackIng of Epigenetic Features) that can efficiently compute these trajectories. ThIEF comes into two 'flavors': ThIEF:Iterative finds the trajectories progressively using bipartite matching, while ThIEF:LP solves a k-partite matching problem on a hyper graph using linear programming. ThIEF:LP is guaranteed to find the optimal solution, but it is slower than ThIEF:Iterative. We demonstrate the utility of ThIEF by providing an example of applications on the analysis of temporal nucleosome maps for the human malaria parasite. As a surprisingly remarkable result, we show that the output of ThIEF can be used to produce a supervised classifier that can accurately predict the position of stable nucleosomes (i.e., nucleosomes present in all time points) and unstable nucleosomes (i.e., present in at most half of the time points) from the primary DNA sequence. To the best of our knowledge, this is the first result on the prediction of the dynamics of nucleosomes solely based on their DNA binding preference."
+abstract = "We address the problem of comparing multiple genome-wide maps representing nucleosome positions or specific histone marks. These maps can originate from the comparative analysis of ChIP-Seq/MNase-Seq/FAIRE-Seq data for different cell types/tissues or multiple time points. The input to the problem is a set of maps, each of which is a list of genomics locations for nucleosomes or histone marks. The output is an alignment of nucleosomes/histone marks across time points (that we call trajectories), allowing small movements and gaps in some of the maps. We present a tool called ThIEF (TrackIng of Epigenetic Features) that can efficiently compute these trajectories. ThIEF comes into two \"flavors\": ThIEF:Iterative finds the trajectories progressively using bipartite matching, while ThIEF:LP solves a k-partite matching problem on a hyper graph using linear programming. ThIEF:LP is guaranteed to find the optimal solution, but it is slower than ThIEF:Iterative. We demonstrate the utility of ThIEF by providing an example of applications on the analysis of temporal nucleosome maps for the human malaria parasite. As a surprisingly remarkable result, we show that the output of ThIEF can be used to produce a supervised classifier that can accurately predict the position of stable nucleosomes (i.e., nucleosomes present in all time points) and unstable nucleosomes (i.e., present in at most half of the time points) from the primary DNA sequence. To the best of our knowledge, this is the first result on the prediction of the dynamics of nucleosomes solely based on their DNA binding preference."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -47,7 +47,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["nucleosomes", "nucleosome positioning"]
+tags = ["Nucleosomes", "Epigenetics", "Genomics", "Histone Marks", "Histone Tail Modifications", ]
 
 # Links (optional).
 url_pdf = "http://www.cs.ucr.edu/~stelo/papers/THiEF_WABI17.pdf"
@@ -68,6 +68,7 @@ url_custom = [{name = "conference", url = "https://acm-bcb.org/WABI/2017/index.p
 
 # Digital Object Identifier (DOI)
 doi = "10.4230/LIPIcs.WABI.2017.19"
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
