@@ -18,8 +18,8 @@ authors = ["X Zhang", "Y Lii", "Z Wu", "**Anton Polishko**", "H Zhang", "V Chinn
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Mol Plant"
-publication_short = ""
+publication = "*Molecular Plant*"
+publication_short = "Mol Plant"
 
 # Abstract and optional shortened version.
 abstract = "A large proportion of eukaryotic genomes is transcribed from both positive and negative strands of DNA and thus may generate overlapping sense and antisense transcripts. Some of these so-called natural antisense transcripts (NATs) are possibly co-regulated. When the overlapping sense and antisense transcripts are expressed at the same time in the same cell in response to various developmental and environmental cues; they may form double-stranded RNAs, which could be recognized by the small RNA biogenesis machinery and processed into small interfering RNAs (siRNAs). cis-NAT-derived siRNAs (nat-siRNAs) are present in plants, animals, and fungi. In plants, the presence of nat-siRNAs is supported not only by Northern blot and genetic analyses, but also by the fact that there is an overall sixfold enrichment of siRNAs in the overlapping regions of cis-NATs and 19%-29% of the siRNA-generating cis-NATs in plants give rise to siRNAs only in their overlapping regions. Silencing mediated by nat-siRNAs is one of the mechanisms for regulating the expression of the cis-NATs. This review focuses on challenging issues related to the biogenesis mechanisms as well as regulation and detection of nat-siRNAs. The advantages and limitations of new technologies for detecting cis-NATs, including direct RNA sequencing and strand-specific RNA sequencing, are also discussed."
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S1674205214600332"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
